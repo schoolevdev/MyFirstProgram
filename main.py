@@ -1,4 +1,4 @@
-# This is a sample Python script.
+# This is a sample Python script that squares any number you type in.
 # This is my first Python Program (it isn't)
 # Name: Evin Lodder
 # Version/Date: 8/23/2022
